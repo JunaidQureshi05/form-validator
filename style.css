@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 
 :root {
-  --success-color: #2ecc71;
-  --error-color: #e74c3c;
+  --success-color: #a0df10;
+  --error-color: #fe2e19;
 }
 
 * {
@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #f9fafb;
+  background-color: #52ea99;
   font-family: "Open Sans", sans-serif;
   display: flex;
   align-items: center;
@@ -82,8 +82,8 @@ h2 {
 
 .form button {
   cursor: pointer;
-  background-color: #3498db;
-  border: 2px solid #3498db;
+  background-color: #f27e28;
+  border: 2px solid #f27e28;
   border-radius: 4px;
   color: white;
   display: block;
